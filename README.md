@@ -1,4 +1,7 @@
-# test coverage for  [gulp-accessibility (v3.0.1)](https://github.com/yargalot/gulp-accessibility)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-accessibility.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-accessibility) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-accessibility.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-accessibility)
+# npmtest-gulp-accessibility
+
+#### basic test-coverage for  [gulp-accessibility (v3.0.1)](https://github.com/yargalot/gulp-accessibility)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-accessibility.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-accessibility) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-accessibility.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-accessibility)
+
 #### Grade your sites accessibility and generate a report from different WCAG levels
 
 [![NPM](https://nodei.co/npm/gulp-accessibility.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-accessibility)
@@ -92,7 +95,8 @@
         "prepublish": "npm test",
         "test": "gulp test"
     },
-    "version": "3.0.1"
+    "version": "3.0.1",
+    "bin": {}
 }
 ```
 
