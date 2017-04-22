@@ -1,30 +1,30 @@
 <svg height="430" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="430" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 01:57:17 +0000   325765 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 01:57:17 +0000     1551 bytes  README.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 01:57:17 +0000      602 bytes  appveyor.yml</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 01:57:17 +0000      134 bytes  example/partials/partialOne.html</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 01:57:17 +0000      133 bytes  example/partials/partialTwo.html</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 01:57:17 +0000      247 bytes  example/test.html</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 01:57:17 +0000      247 bytes  example/two.html</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 01:57:17 +0000     1449 bytes  gulpfile.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 01:57:17 +0000   183351 bytes  img/example.png</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 01:57:17 +0000     1887 bytes  index.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 01:57:17 +0000     2942 bytes  package.json</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 01:57:17 +0000     1306 bytes  test/expected/csv/partialOne.csv</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 01:57:17 +0000     1305 bytes  test/expected/csv/partialTwo.csv</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 01:57:17 +0000     1298 bytes  test/expected/csv/test.csv</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 01:57:17 +0000     1301 bytes  test/expected/csv/two.csv</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 01:57:17 +0000     1935 bytes  test/expected/json/partials/partialOne.json</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 01:57:17 +0000     1934 bytes  test/expected/json/partials/partialTwo.json</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 01:57:17 +0000     1938 bytes  test/expected/json/test.json</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 01:57:17 +0000     1937 bytes  test/expected/json/two.json</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 01:57:17 +0000     1275 bytes  test/expected/txt/partials/partialOne.txt</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 01:57:17 +0000     1274 bytes  test/expected/txt/partials/partialTwo.txt</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 01:57:17 +0000     1287 bytes  test/expected/txt/test.txt</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 01:57:17 +0000     1287 bytes  test/expected/txt/two.txt</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 01:57:17 +0000     1297 bytes  test/gulp-accessibility_test.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 01:57:17 +0000   113848 bytes  yarn.lock</tspan>
+<tspan x="10" y="26">  0.  2017-04-22 08:22:10 +0000   325765 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 08:22:10 +0000     1551 bytes  README.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 08:22:10 +0000      602 bytes  appveyor.yml</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 08:22:10 +0000      134 bytes  example/partials/partialOne.html</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 08:22:10 +0000      133 bytes  example/partials/partialTwo.html</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 08:22:10 +0000      247 bytes  example/test.html</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 08:22:10 +0000      247 bytes  example/two.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 08:22:10 +0000     1449 bytes  gulpfile.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 08:22:10 +0000   183351 bytes  img/example.png</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 08:22:10 +0000     1887 bytes  index.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 08:22:10 +0000     2942 bytes  package.json</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 08:22:10 +0000     1306 bytes  test/expected/csv/partialOne.csv</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 08:22:10 +0000     1305 bytes  test/expected/csv/partialTwo.csv</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 08:22:10 +0000     1298 bytes  test/expected/csv/test.csv</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 08:22:10 +0000     1301 bytes  test/expected/csv/two.csv</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 08:22:10 +0000     1935 bytes  test/expected/json/partials/partialOne.json</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 08:22:10 +0000     1934 bytes  test/expected/json/partials/partialTwo.json</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 08:22:10 +0000     1938 bytes  test/expected/json/test.json</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 08:22:10 +0000     1937 bytes  test/expected/json/two.json</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 08:22:10 +0000     1275 bytes  test/expected/txt/partials/partialOne.txt</tspan>
+<tspan x="10" y="346"> 20.  2017-04-22 08:22:10 +0000     1274 bytes  test/expected/txt/partials/partialTwo.txt</tspan>
+<tspan x="10" y="362"> 21.  2017-04-22 08:22:10 +0000     1287 bytes  test/expected/txt/test.txt</tspan>
+<tspan x="10" y="378"> 22.  2017-04-22 08:22:10 +0000     1287 bytes  test/expected/txt/two.txt</tspan>
+<tspan x="10" y="394"> 23.  2017-04-22 08:22:10 +0000     1297 bytes  test/gulp-accessibility_test.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-22 08:22:10 +0000   113848 bytes  yarn.lock</tspan>
 </text>
 </svg>
